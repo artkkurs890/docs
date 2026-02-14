@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "mint",
+  "theme": "almond",
   "name": "AKKPWRDOCS",
   "colors": {
     "primary": "#16A34A",
@@ -109,7 +109,7 @@
    ]
   },
   "background": {
-    "decoration": "windows"
+    "decoration": "gradient"
   },
   "banner": {
     "content": "AKKPWRDOCS",
