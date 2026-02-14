@@ -111,6 +111,7 @@
     "decoration": "gradient"
   },
   "banner": {
-    "content": "123"
+    "content": "AKKPWRDOCS",
+    "dismissible": true
   }
 }
