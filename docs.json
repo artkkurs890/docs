@@ -15,6 +15,12 @@
         "pages": [
           "hello"
         ]
+      },
+      {
+        "tab": "MOKOSH",
+        "pages": [
+          "tweaker"
+        ]
       }
     ]
   },
